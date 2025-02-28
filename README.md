@@ -56,6 +56,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## What happens when you run the script
 
 **it will show:**
+```
 !! SYSTEM WARNING: SELF-DESTRUCT SEQUENCE INITIATED !!  
 Error: Unauthorized user '$USER' has triggered the cataclysmic event.  
 
@@ -112,8 +113,6 @@ BEWARE! All files are being DESTROYED! DELETED FOREVER! NOTHING CAN BE SAVED!
 [WARNING] This Is Serious. Leave Your Computer as quickly as possible, or it will be blasted!  
 
 SYSTEM CRASHING... SYSTEM CRASHING... FINAL WARNING!!!  
-
-...  
 
 JUST KIDDING! 🎉 SYSTEM IS FINE! YOU'VE BEEN PRANKED! 😂  
 No files were lost. Your cookies are safe. Your Wi-Fi is intact. Your mouse is still under your control.  
